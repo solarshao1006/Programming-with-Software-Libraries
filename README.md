@@ -22,3 +22,7 @@ One thing not support: when sending message, the GUI would not check if the user
 
 ![FinalVersion](https://user-images.githubusercontent.com/62400474/166119521-139dcd33-8957-4e77-809c-d4d733e14f5c.jpg)
 
+
+Citation:
+The idea of the LoginPage class at the bottom of the "Distributed Social GUI.py" comes from a website named "jb51.net":
+https://www.jb51.net/article/133978.htm
