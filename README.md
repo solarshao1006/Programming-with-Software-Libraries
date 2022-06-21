@@ -1,4 +1,4 @@
-# ICS32
+# ICS32 Final Project- Distributed Social GUI
 # Author: Solar Shao
 # UCI ICS32 Material
 A simple social network GUI based on temporary socket server created by ICS32 summer2020 instructer: Mark S. Baldwin. 
